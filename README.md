@@ -1,0 +1,2 @@
+# LocalDoc
+Personal - Private LLM
