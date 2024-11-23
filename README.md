@@ -15,5 +15,5 @@ When a user submits a query, LocalDoc performs a similarity search within the ve
 <img src="Web%20app/Web_UI.png">
 
 Team Details:
-- Piyush Sahoo
 - Ayam Bhura
+- Piyush Sahoo
