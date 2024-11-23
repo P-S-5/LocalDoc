@@ -1,6 +1,10 @@
 # LocalDoc
 Personal - Private LLM
 
+Team Details:
+- Ayam Bhura
+- Piyush Sahoo
+
 It addresses the inherent privacy concerns associated with online cloud based LLM chatbots by providing a high performance local solution for handling private documents.
 
 - Developed a personalized, secure, and offline RAG (Retrieval-augmented generation) model.
@@ -13,7 +17,3 @@ It addresses the inherent privacy concerns associated with online cloud based LL
 When a user submits a query, LocalDoc performs a similarity search within the vector database. It retrieves relevant document chunks, generates an output, and provides context to both the documents and the user input, ensuring a comprehensive understanding of the information retrieved.
 
 <img src="Web%20app/Web-UI.png">
-
-Team Details:
-- Ayam Bhura
-- Piyush Sahoo
