@@ -13,3 +13,7 @@ It addresses the inherent privacy concerns associated with online cloud based LL
 When a user submits a query, LocalDoc performs a similarity search within the vector database. It retrieves relevant document chunks, generates an output, and provides context to both the documents and the user input, ensuring a comprehensive understanding of the information retrieved.
 
 <img src="Web%20app/Web_UI.png">
+
+Team Details:
+Piyush Sahoo
+Ayam Bhura
