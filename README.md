@@ -1,10 +1,6 @@
 # LocalDoc
 Personal - Private LLM
 
-Team Details:
-- Ayam Bhura
-- Piyush Sahoo
-
 It addresses the inherent privacy concerns associated with online cloud based LLM chatbots by providing a high performance local solution for handling private documents.
 
 - Developed a personalized, secure, and offline RAG (Retrieval-augmented generation) model.
